@@ -1,6 +1,6 @@
 percobaan pertama
 ini line 1
 ini line 2
-ini line 3
 ini line 4
 ini line 5
+ini line 6
